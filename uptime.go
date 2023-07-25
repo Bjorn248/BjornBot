@@ -2,11 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/go-chat-bot/bot"
-	"github.com/nicklaw5/helix"
 	"os"
 	"strings"
 	"time"
+
+	"github.com/go-chat-bot/bot"
+	"github.com/nicklaw5/helix/v2"
 )
 
 func uptime(command *bot.Cmd) (msg string, err error) {
