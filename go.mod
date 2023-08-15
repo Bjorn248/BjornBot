@@ -3,7 +3,7 @@ module github.com/Bjorn248/BjornBot
 go 1.19
 
 require (
-	github.com/Bjorn248/go-chat-bot-bot v0.0.0-20230815024520-1cc9f9929809
+	github.com/Bjorn248/go-chat-bot-bot v0.0.0-20230815033058-2b053e490319
 	github.com/nicklaw5/helix/v2 v2.24.0
 )
 
