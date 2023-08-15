@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/go-chat-bot/bot"
+	bot "github.com/Bjorn248/go-chat-bot-bot"
 )
 
 func config(command *bot.Cmd) (msg string, err error) {

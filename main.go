@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/go-chat-bot/bot/irc"
 	"log"
 	"os"
 	"strings"
+
+	"github.com/Bjorn248/go-chat-bot-bot/irc"
 )
 
 func main() {

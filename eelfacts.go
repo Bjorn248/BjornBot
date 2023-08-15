@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/go-chat-bot/bot"
 	"math/rand"
 	"time"
+
+	bot "github.com/Bjorn248/go-chat-bot-bot"
 )
 
 func eelfacts(command *bot.Cmd) (msg string, err error) {

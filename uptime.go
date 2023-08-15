@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-chat-bot/bot"
+	bot "github.com/Bjorn248/go-chat-bot-bot"
 	"github.com/nicklaw5/helix/v2"
 )
 
