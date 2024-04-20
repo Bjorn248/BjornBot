@@ -1,6 +1,6 @@
 module github.com/Bjorn248/BjornBot
 
-go 1.19
+go 1.22
 
 require (
 	github.com/go-chat-bot/bot v0.0.0-20220127123339-71bc1bfb492c
