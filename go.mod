@@ -1,6 +1,7 @@
 module github.com/Bjorn248/BjornBot
 
 go 1.22
+toolchain go1.23.7
 
 require (
 	github.com/go-chat-bot/bot v0.0.0-20220127123339-71bc1bfb492c
@@ -13,6 +14,6 @@ require (
 	github.com/mozillazg/go-unidecode v0.2.0 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/thoj/go-ircevent v0.0.0-20210723090443-73e444401d64 // indirect
-	golang.org/x/net v0.34.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 )
