@@ -32,3 +32,4 @@ docker/bjornbot_linux
 # Build Artifacts
 BjornBot
 bjornbot_arm
+bjornbot_amd64
